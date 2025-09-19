@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jenna Israel / Jenna Israel"
+title                    : "Jenna Israel"
 title_separator          : "-"
 name                     : &name "Jenna Israel"
 description              : &description "PhD Candidate"
@@ -22,7 +22,7 @@ repository               : "jennaisrael/jennaisrael.githib.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_JI_crop.jpg"
+  avatar           : "profile_JI_crop_sq.jpg"
   name             : "Jenna Israel"
   pronouns         : "she/her"  
   bio              : "Final year PhD candidate seeking post doctoral opportunities"

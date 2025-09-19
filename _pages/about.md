@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a PhD candidate looking for post doctoral opportunities"
+title: "I am a PhD candidate looking for postdoctoral opportunities"
 author_profile: true
 redirect_from: 
   - /about/
